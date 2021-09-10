@@ -10,3 +10,4 @@ export interface Animal {
 }
 
 export type Animais = Array<Animal>;
+ 
